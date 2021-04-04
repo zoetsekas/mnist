@@ -1,0 +1,5 @@
+tensorflow~=2.4.1
+matplotlib~=3.4.0
+numpy~=1.19.5
+graphviz~=0.16
+Keras~=2.4.3
